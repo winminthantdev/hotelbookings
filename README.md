@@ -8,7 +8,7 @@ This repository contains the frontend for a modern and responsive room managemen
 
 A responsive and modern web application designed for property owners to efficiently manage their room listings. This project features a powerful owner-facing dashboard to add new rooms, view all listings, and update room availability in real-time.
 
-**Live Demo:** [Link to your deployed application](https://quickstaywithus.onrender.com)
+**Live Demo:** [Demo](https://quickstaywithus.onrender.com)
 
 
 ---
@@ -19,7 +19,7 @@ A responsive and modern web application designed for property owners to efficien
 
 | Room List View | Features|
 | :-------------: | :--------------: |
-| ![Room List View](./screenshot/room.png) | ![Features](./screenhot/features.png) |
+| ![Room List View](./screenshots/room.png) | ![Features](./screenhots/features.png) |
 
 
 ---
