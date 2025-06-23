@@ -19,7 +19,7 @@ A responsive and modern web application designed for property owners to efficien
 
 | Room List View | Features|
 | :-------------: | :--------------: |
-| ![Room List View](./screenshots/room.png) | ![Features](./screenhots/features.png) |
+| ![Room List View](./screenshots/room.png) | ![Features](./screenshots/features.png) |
 
 
 ---
